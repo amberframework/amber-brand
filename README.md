@@ -1,4 +1,4 @@
-# Amber framework Logo
+# Amber Framework Logo
 
 This repo has SVG designs of [Amber framework](http://www.amberframework.org/) logo.
 
